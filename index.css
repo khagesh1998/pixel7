@@ -1,0 +1,32 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  margin-top: 40px;
+  height: 40px;
+  width: 400px;
+}
+
+
+label {
+  margin-top: 50px;
+  padding-top: 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-top: #222222 1px dashed;
+
+}
+
+textarea {
+  margin-left: 20px;
+  height: 100px;
+  width: 400px;
+}
+
+p {
+  color: #222222;
+  margin-left: 8px;
+}
